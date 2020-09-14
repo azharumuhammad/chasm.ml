@@ -1,1 +1,3 @@
-## Introduction
+# Introduction
+
+An API for machine learning.
