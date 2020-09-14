@@ -1,3 +1,3 @@
-# Introduction
+## Introduction to CHASM.ML
 
-An API for machine learning.
+Making calls to APIs is common but this one is special.
