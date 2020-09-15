@@ -1,0 +1,4 @@
+# Ignore python base setup and cache file
+chasm.egg-info
+__pycache__
+*.pyc
