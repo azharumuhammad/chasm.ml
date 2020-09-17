@@ -1,7 +1,5 @@
-## Introduction to CHASM.ML
+# Introduction
 
-Making calls to APIs is common but this one is special.
+** version 1.0 **
 
-## Todo
-
-[x] Added linear regression to the CHASM.ML
+Chasm.ml is pure python machine learning with server side rendering.
