@@ -9,3 +9,9 @@ I'm selfish, impatient and a little insecure. I make mistakes, I am out of contr
 ## License
 
 [Apache](https://choosealicense.com/licenses/apache-2.0/)
+
+## Project status
+
+- This project is beta version.
+- This project doesnt have any features except linear regression.
+- Currently work on linear regression and multi linear regression.
